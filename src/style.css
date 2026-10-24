@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.bb {
+    display: inline-grid;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px;
+    border: 2px solid green;
+}
+
+.bb .darkSquare {
+    background-color: #ff8888;
+    width: 100px;
+    height: 100px;
+}
+
+.bb .lightSquare {
+    background-color: #880000;
+    width: 100px;
+    height: 100px;
+}

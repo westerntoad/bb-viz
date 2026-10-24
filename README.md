@@ -1,1 +1,1 @@
-# bb-viz
+# Bitboard Visualizer 
